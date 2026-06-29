@@ -1,0 +1,7 @@
+THE WAY I APPROACH SELF-LEARNING :
+I have realized that I am not someone who studies every day or tries to learn everything at once. Instead, I prefer focusing on the skills that truly matter for my career and giving them my complete attention when the time is right.
+Yesterday, I completed a Git and GitHub tutorial as part of my self-learning journey. Whenever I learn something new, I maintain two separate notebooks. One is dedicated to study notes, where I write down concepts and important points. The other is a task checklist, where I track my progress and record what I have completed and understood.
+I do not write notes with the intention of memorizing them repeatedly. I write them so that I can revisit and recall the concepts whenever I need them in the future. Similarly, my checklist serves as a reminder of how far I have come and gives me confidence in my progress.
+Over time, I have learned that effective learning is not necessarily about studying every single day. It is about having clarity, focus, and the ability to dedicate uninterrupted time to a particular skill. When you know where you want to go and why you are learning something, the process becomes much more meaningful.
+As aspiring professionals and developers, we do not need to chase every skill at once. We need a clear goal, focused effort, and the discipline to keep moving forward.
+With clarity and concentration, learning any skill becomes possible.
